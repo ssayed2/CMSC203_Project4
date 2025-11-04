@@ -7,12 +7,7 @@ This project implements three main Java classes:
 
 It demonstrates object aggregation, arrays of objects, encapsulation, copy constructors, and data validation.
 
-## 📸 Screenshot of src Folder
-Include the screenshot of your `src` folder here.
-
-![src screenshot](./Screenshot.png)
-
-## 🧩 Files
+## Files
 - `ManagementCompany.java`
 - `Property.java`
 - `Plot.java`
@@ -20,7 +15,7 @@ Include the screenshot of your `src` folder here.
 - Optional GUI: `MgmCompanyGui.java`
 
 ---
-Author: *Your Name*  
+Author: Samiullah  
 Course: CMSC203  
-Professor: *[Professor’s Name]*  
+Professor: Gary Thai  
 Semester: Fall 2025
